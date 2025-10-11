@@ -5,7 +5,7 @@ permalink: /
 subtitle: PhD (Bristol), MSc and BSc (SJTU), Fellow (HEA), Senior Member (IEEE).
 profile:
   align: right
-  image: fan.jpg
+  image: Fan.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>G.05 MVB, </p>
