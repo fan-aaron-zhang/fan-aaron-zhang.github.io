@@ -2,11 +2,12 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+[COMSM0129](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?unitCode=COMSM0129) Augmenting the Real World (Unit Director, 2022-present)
 
-Organize your courses by years, topics, or universities, however you like!
+[EENGM0004](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?unitCode=EENGM0004) Engineering Research Skills (Unit Director, 2022-2024)
+
+[EENGM4021](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?unitCode=EENGM4021) Image and Video Coding (Unit Director: Prof David Bull, 2021-2024)

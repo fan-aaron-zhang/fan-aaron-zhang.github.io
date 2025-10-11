@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
+subtitle: PhD (Bristol), MSc and BSc (SJTU), Fellow (HEA), Senior Member (IEEE).
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: fan.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>G.05 MVB, </p>
+    <p>Woodland Road, </p>
+    <p>Bristol, UK, BS8 1UB</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -19,16 +18,30 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 3 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<br>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am currently a Senior Lecturer in the [School of Computer Science](https://www.bristol.ac.uk/science-engineering/schools/computer-science/) at the [University of Bristol](https://www.bristol.ac.uk/). I received my B.Sc. and M.Sc. degrees from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), China, and my Ph.D. degree from the [University of Bristol](https://www.bristol.ac.uk/), United Kingdom, supervised by [Prof David Bull](https://david-bull.github.io/). As a member of [Visual Information Lab](https://vilab.blogs.bristol.ac.uk/) and [Bristol Vision Institute](https://www.bristol.ac.uk/vision-institute), my research interests lie in low-level computer vision, with a focus on video compression, perceptual quality assessment, image and video super resolution, video frame interpolation, knowledge distillation and database condensation. 
+
+I served as an Associate Editor for the IEEE Transactions on Circuits and Systems for Video Technology (2021-2024), and as a Guest Editor for the IEEE Journal on Emerging and Selected Topics in Circuits and Systems in 2024 and Frontiers in Signal Processing in 2022. I have been an active reviewer for leading journals including Proceedings of the IEEE, IEEE Access, IEEE Transactions on Broadcasting, IEEE Transactions on Image Processing, IEEE Transactions on Multimedia, IEEE Signal Processing Letters, and IEEE Transactions on Circuits and Systems for Video Technology. I also regularly review for major international conferences such as CVPR, ICCV, ECCV, NeurIPS, AAAI, WACV, BMVC, ICASSP, ICIP, ICME, VCIP, and PCS. 
+
+I have won several international challenges related to video compression and quality assessment, including those at IEEE ISCAS 2025 (Neural Network-based Video Coding), IEEE MMSP 2024 (Practical End-to-end Image/Video Compression), DCC 2024 (CLIC, Learned Video Compression), IEEE/CVF WACV 2023 (HDR Video Quality Measurement), and IEEE ICIP 2017 (Video Compression). 
+
+I am a Senior Member of the IEEE, a Fellow of the Higher Education Academy (HEA), and a member of the Visual Signal Processing and Communications Technical Committee (VSPC TC) within the IEEE Circuits and Systems Society.
+
+Email: fan.zhang@bristol.ac.uk<br>
+Address: G.05 MVB, Woodland Road, Bristol, UK, BS8 1UB
+
+## recruitment
+
+I am open to PhD applications for the 2026 intake. Please email me your CV. Possible funding opportunities include:
+- [China Scholarship Council-University of Bristol PhD Scholarship](https://www.bristol.ac.uk/students/support/finances/scholarships/china-scholarship-council/) (60 per year at Bristol)
+- [University Postgraduate Research Scholarships](https://www.bristol.ac.uk/science-engineering/postgraduate-research/pgr-scholarships/)
