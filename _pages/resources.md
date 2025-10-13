@@ -1,0 +1,56 @@
+---
+layout: page
+permalink: /resources/
+title: resources
+description: a summary of source code and databases for the works that I have contributed to.
+nav: true
+nav_order: 8
+---
+
+### source code
+
+video coding
+- ViSTRA [TCSVT2018/SPIC2021, [code](https://github.com/fan-aaron-zhang/vistra)]: video compression based on spatial resolution and effective bit depth adaptation
+- CNN-PP [MM2020, [code](https://github.com/fan-aaron-zhang/vistra)]: video compression with CNN-based post processing
+- MFRNet [JSTSP2020, [code](https://github.com/fan-aaron-zhang/mfrnet)]: a new CNN architecture for post-processing and in-loop filtering
+- CVE-GAN [SPIC2024, [code](https://github.com/fan-aaron-zhang/cvegan)]: a perceptually-inspired GAN for compressed video enhancement
+- HiNeRV [NeurIPS2023, [code](https://github.com/hmkx/HiNeRV)]: video compression with hierarchical encoding-based neural representation
+- MV-HiNeRV [PCS2024, [code](https://github.com/hmkx/HiNeRV)]: Immersive Video Compression using Implicit Neural Representations
+- NVRC [NeurIPS2024, [code](https://github.com/hmkx/NVRC)]: Neural Video Representation Compression
+<br>
+
+quality models
+- FRQM [ICIP2017, [code](https://vilab.blogs.bristol.ac.uk/files/2019/07/FRQM_code.zip)]: a frame rate dependent video quality metric
+- PVM [TCSVT2015, [code](/assets/zips/PVM_code.zip]: a perception-based video metric
+- FloLPIPS [PCS2022, [code](https://github.com/danier97/flolpips)]: A Bespoke Video Quality Metric for Frame Interpoation
+- RankDVQA [WACV2024, [code](https://github.com/ChenFeng-Bristol/RankDVQA_release)]: Deep VQA based on a Novel Hybrid Training Methodology
+- RMT-BVQA [ECCVW2024, [code](https://github.com/jasminepp/RMTBVQA)]: Recurrent Memory Transformer-based Blind Video Quality Assessment for Enhanced Video Content
+- MVAD [WACV2025, [code](https://github.com/ChenFeng-Bristol/MVAD)]: A Multiple Visual Artifact Detector for Video Streaming
+
+other image processing methods
+- ST-MFNet [CVPR2022, [code](https://github.com/danier97/ST-MFNet)]: Spatio-Temporal Multi-Flow Network for Video Frame Interpolation
+- ST-MFNet Mini [ICIP2023, [code](https://github.com/crispianm/ST-MFNet-Mini)]: the compact model of ST-MFNet
+- Deformable Convolution based VFI [ICIP2022, [code](https://github.com/danier97/EDC)]: a new deformable convolution based VFI method
+- LDMVFI [AAAI2024, [code](https://github.com/danier97/LDMVFI)]: Video Frame Interpolation with Latent Diffusion Models
+- MTKD [ECCV2024, [code](https://github.com/YuxuanJJ/MTKD)]: Multi-Teacher Knowledge Distillation for Image Super-Resolution
+- HIIF [CVPR2025, [code](https://github.com/YuxuanJJ/HIIF)]: Hierarchical Encoding based Implicit Image Function for Continuous Super-resolution
+- BVSR-IK [ICCV2025, [code](https://github.com/QZ1-boy/BVSR-IK)]: Blind Video Super-Resolution based on Implicit Kernels
+- FCVSR [TMM, [code](https://github.com/QZ1-boy/FCVSR)]: A frequency-aware Method for Compressed Video Super-Resolution
+
+
+### databases
+
+- BVI-HD [[database](../../BVI-HD)]: a perceptual video quality database for HEVC and texture synthesis compressed content
+- BVI-HFR [[database](../../BVI-HFR)]: a high frame rate video database
+- BVI-SR [[database](../../BVI-SR)]: a study of subjective video quality at various spatial resolutions
+- BVI-HomTex [[database](../../BVI-HD)]: a video database with various types of homogeneous textures
+- BVI-Texture [[database](https://data.bris.ac.uk/datasets/1if54ya4xpph81fbo1gkpk5kk4/)]: a video texture database for perceptual compression and quality assessment
+- BVI-SynTex [[database](httphttps://data.bris.ac.uk/data/dataset/1if54ya4xpph81fbo1gkpk5kk4)]: a synthetic video texture dataset for video compression and quality assessment
+- BVI-DVC [[database](../../BVI-DVC)]: a training database for deep video compression
+- BVI-CC [[database](../../BVI-CC)]: a video database for codec comparison and quality assessment
+- BVI-VFI [[database](https://github.com/danier97/BVI-VFI-database)]: a subjective quality study for video frame interpolation
+- BVI-UGC [[database](https://zihaoq1.github.io/BVI-UGC/)]: A Video Quality Database for User-Generated Content Transcoding
+- BVI-Artefact [[database](https://chenfeng-bristol.github.io/BVI-Artefact/)]: An Artefact Detection Benchmark Dataset for Streamed Videos
+- BVI-AOM [[database](https://github.com/fan-aaron-zhang/bvi-aom)]: A Training Database for Video Compression Research
+- BVI-CR [[database](https://github.com/fan-aaron-zhang/bvi-cr)]: A Multi-View Human Dataset for Volumetric Video Compression
+- ViVo [[database](https://vivo-bvicr.github.io/)]: A Dataset for Volumetric VideoReconstruction and Compression
