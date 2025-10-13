@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
+        },{id: "nav-resources",
+          title: "resources",
+          description: "a summary of source code and databases for the works that I have contributed to.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/resources/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -393,12 +400,25 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
+      },{id: "news-i-co-organised-the-bmva-symposium-on-image-and-video-quality-at-london",
+          title: 'I co-organised the BMVA Symposium on Image and Video Quality at London.',
           description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-first-prize-in-the-nnvc-gc-in-iscas-2025-certificate",
+          section: "News",},{id: "news-our-paper-pnvc-has-been-selected-for-oral-presentation-by-aaai-2025",
+          title: 'Our paper, PNVC, has been selected for Oral Presentation by AAAI 2025.',
+          description: "",
+          section: "News",},{id: "news-i-became-a-senior-member-of-ieee",
+          title: 'I became a Senior Member of IEEE.',
+          description: "",
+          section: "News",},{id: "news-five-papers-have-been-accepted-by-ieee-iscas-2025-bvi-sr-rtsr-aquanerf-ebda-hdr-and-csfa",
+          title: 'Five papers have been accepted by IEEE ISCAS 2025: BVI-SR, RTSR, AquaNeRF, EBDA-HDR...',
+          description: "",
+          section: "News",},{id: "news-the-bvi-aom-database-has-been-formally-accepted-by-mpeg-jvet",
+          title: 'The BVI-AOM database has been formally accepted by MPEG JVET!',
+          description: "",
+          section: "News",},{id: "news-one-paper-has-been-accepted-by-cvpr-2025-hiif",
+          title: 'One paper has been accepted by CVPR 2025: HIIF.',
+          description: "",
+          section: "News",},{id: "news-first-prize-in-the-nnvc-gc-in-iscas-2025-certificate",
           title: 'First Prize in the NNVC GC in ISCAS 2025 [Certificate].',
           description: "",
           section: "News",},{id: "news-three-papers-were-accepted-by-iccv-2025-givic-bvsr-ik-and-culture3d",
@@ -409,6 +429,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-one-papers-was-accepted-by-iccv-2025-aigens-workshop-c2d-isr",
           title: 'One papers was accepted by ICCV 2025 AIGENS workshop: C2D-ISR.',
+          description: "",
+          section: "News",},{id: "news-fcvsr-has-been-accepted-by-ieee-tmm",
+          title: 'FCVSR has been accepted by IEEE TMM.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
