@@ -4,11 +4,9 @@ title: Intelligent Image and Video Compression
 description: Communicating Pictures, 2nd Edition
 nav: false
 permalink: /IVC-book/
-profile:
-  align: right
-  image: book_cover_new.svg
-  image_circular: false # crops the image to make it circular
 ---
+
+<img src="/assets/img/publication_preview/book_cover_new.svg" width="500">
 
 This book explains the requirements, analysis, design and application of a modern video coding system. It draws on the authors' extensive academic and professional experience in this field to deliver a text that is algorithmically rigorous yet accessible, relevant to modern standards and practical. It builds on a thorough grounding in mathematical foundations and visual perception to demonstrate how modern image and video compression methods can be designed to meet the rate-quality performance levels demanded by today's applications and users, in the context of prevailing network constraints.
 
