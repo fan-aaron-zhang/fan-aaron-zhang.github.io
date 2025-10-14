@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-One papers was accepted by ICCV 2025 AIGENS workshop: [C2D-ISR](https://arxiv.org/abs/2503.13740).
+[C2D-ISR](https://arxiv.org/abs/2503.13740) has been accepted by ICCV 2025 AIGENS workshop.
 
