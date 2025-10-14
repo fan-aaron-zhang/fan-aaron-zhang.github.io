@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD (Bristol), MSc and BSc (SJTU), Fellow (HEA), Senior Member (IEEE).
+subtitle: PhD (Bristol), MEng and BEng (SJTU), Fellow (HEA), Senior Member (IEEE).
 profile:
   align: right
   image: Fan.jpg
