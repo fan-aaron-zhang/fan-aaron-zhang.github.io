@@ -3,7 +3,7 @@ layout: page
 permalink: /esteem/
 title: esteem
 nav: true
-nav_order: 10
+nav_order: 6
 ---
 
 **2025**  &emsp;	[First Prize](/assets/img/ISCAS2025_GC.png) in the 4th Neural Network Video Coding Grand Challenge in IEEE ISCAS 2025 (Hybrid Track)<br>

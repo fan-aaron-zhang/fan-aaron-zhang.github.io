@@ -3,7 +3,7 @@ layout: page
 permalink: /talks/
 title: talks
 nav: true
-nav_order: 9
+nav_order: 5
 ---
 
 **2025** &emsp;    AI-based Video Compression @ ***BTF+, Bristol*** <br>

@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: teaching
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
 [COMSM0129](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?unitCode=COMSM0129) Augmenting the Real World (Unit Director, 2022-present)
