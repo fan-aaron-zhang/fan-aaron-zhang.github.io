@@ -12,6 +12,7 @@ profile:
     <p>Woodland Road, </p>
     <p>Bristol, UK, BS8 1UB</p>
 
+
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
@@ -20,11 +21,8 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 3 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
+
 
 <br>
 
@@ -39,9 +37,11 @@ I am a Senior Member of the IEEE, a Fellow of the Higher Education Academy (HEA)
 Email: fan.zhang@bristol.ac.uk<br>
 Address: G.05 MVB, Woodland Road, Bristol, UK, BS8 1UB
 
+---
 ## recruitment
 
 I am open to PhD applications for the 2026 intake. Please email me your CV. Possible funding opportunities include:
 - [China Scholarship Council-University of Bristol PhD Scholarship](https://www.bristol.ac.uk/students/support/finances/scholarships/china-scholarship-council/) (60 per year at Bristol)
 - [University Postgraduate Research Scholarships](https://www.bristol.ac.uk/science-engineering/postgraduate-research/pgr-scholarships/)
 
+---
