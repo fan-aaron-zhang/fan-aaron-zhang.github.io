@@ -28,7 +28,7 @@ announcements:
 
 I am currently a Senior Lecturer in the [School of Computer Science](https://www.bristol.ac.uk/science-engineering/schools/computer-science/) at the [University of Bristol](https://www.bristol.ac.uk/). I received my B.Sc. and M.Sc. degrees from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), China, and my Ph.D. degree from the [University of Bristol](https://www.bristol.ac.uk/), United Kingdom, supervised by [Prof David Bull](https://david-bull.github.io/). As a member of [Visual Information Lab](https://vilab.blogs.bristol.ac.uk/) and [Bristol Vision Institute](https://www.bristol.ac.uk/vision-institute), my research interests lie in low-level computer vision, with a focus on video compression, perceptual quality assessment, image and video super resolution, video frame interpolation, knowledge distillation and database condensation. 
 
-I served as an Associate Editor for the IEEE Transactions on Circuits and Systems for Video Technology (2021-2024), and as a Guest Editor for the IEEE Journal on Emerging and Selected Topics in Circuits and Systems in 2024 and Frontiers in Signal Processing in 2022. I have been an active reviewer for leading journals including Proceedings of the IEEE, IEEE Access, IEEE Transactions on Broadcasting, IEEE Transactions on Image Processing, IEEE Transactions on Multimedia, IEEE Transactions on Broadcasting, IEEE Signal Processing Letters, and IEEE Transactions on Circuits and Systems for Video Technology. I also regularly review for major international conferences such as CVPR, ICCV, ECCV, NeurIPS, AAAI, WACV, BMVC, ICASSP, ICIP, ICME, VCIP, and PCS. 
+I served as an Associate Editor for the IEEE Transactions on Circuits and Systems for Video Technology (2021-2024), and as a Guest Editor for the IEEE Journal on Emerging and Selected Topics in Circuits and Systems in 2024 and Frontiers in Signal Processing in 2022. I have been a review committee member (meta reviewer) of the IEEE ISCAS, and an active reviewer for leading journals including Proceedings of the IEEE, IEEE Access, IEEE Transactions on Broadcasting, IEEE Transactions on Image Processing, IEEE Transactions on Multimedia, IEEE Transactions on Broadcasting, IEEE Signal Processing Letters, and IEEE Transactions on Circuits and Systems for Video Technology. I also regularly review for major international conferences such as CVPR, ICCV, ECCV, NeurIPS, AAAI, WACV, BMVC, ICASSP, ICIP, ICME, VCIP, and PCS. 
 
 I have won several international challenges related to video compression and quality assessment, including those at IEEE ISCAS 2025 (Neural Network-based Video Coding), IEEE MMSP 2024 (Practical End-to-end Image/Video Compression), DCC 2024 (CLIC, Learned Video Compression), IEEE/CVF WACV 2023 (HDR Video Quality Measurement), and IEEE ICIP 2017 (Video Compression). 
 
@@ -36,6 +36,10 @@ I am a Senior Member of the IEEE, a Fellow of the Higher Education Academy (HEA)
 
 Email: fan.zhang@bristol.ac.uk<br>
 Address: G.05 MVB, Woodland Road, Bristol, UK, BS8 1UB
+
+<a href='https://www.bristol.ac.uk'><img src="/assets/img/UoB_Black_24.svg" width="15%" alt="isolated"></a>
+<a href='https://www.bristol.ac.uk/vision-institute'><img src="/assets/img/VILAB_gray.svg" width="15%" alt="isolated"></a>
+<a href='https://vilab.blogs.bristol.ac.uk'><img src="/assets/img/BVI_gray.svg" width="15%" alt="isolated"></a>
 
 ---
 ## recruitment

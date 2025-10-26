@@ -10,7 +10,6 @@
   website={/IVC-book/},
   bibtex_show={true},
   selected={true},
-  annotation={"... a timely and accessible book on the topic of image and video compression." -- Al Bovik},
   publisher={Academic Press}
 }
 
@@ -770,15 +769,16 @@ title={Support for reduced presentation durations in subjective video quality as
   publisher={Frontiers}
 }
 
-@inproceedings{katsenou2022cnn,
-  title={A CNN-based Post-Processor for Perceptually-Optimized Immersive Media Compression},
-  bibtex_show={true},author={Katsenou, Angeliki and Zhang, Fan and Bull, David},
-  booktitle={ICIP},
-  pages={2761--2765},
-  year={2022},
-  arxiv={2202.12852},
-  doi={ 10.1109/ICIP46576.2022.9897759},
-  organization={IEEE}
+@InProceedings{katsenou2022cnn,
+  author       = {Katsenou, Angeliki and Zhang, Fan and Bull, David},
+  booktitle    = {ICIP},
+  title        = {A CNN-based Post-Processor for Perceptually-Optimized Immersive Media Compression},
+  year         = {2022},
+  organization = {IEEE},
+  pages        = {2761--2765},
+  arxiv        = {2202.12852},
+  bibtex_show  = {true},
+  doi          = {10.1109/ICIP46576.2022.9897759},
 }
 
 @inproceedings{nagaraju2021key,
@@ -1159,190 +1159,4 @@ title={Support for reduced presentation durations in subjective video quality as
   selected={true},
   arxiv={2412.03748},
   doi={10.1109/CVPR52734.2025.00219},
-  annotation={The first implicit image function based on hierarchical encoding (for ISR)!},
-  code={https://github.com/YuxuanJJ/HIIF},
-  pages={2289--2299},
-  year={2025}
-}
-
-@preprint{anantrasirichai2025artificial,
-  title={Artificial Intelligence in Creative Industries: Advances Prior to 2025},
-  bibtex_show={true},author={Anantrasirichai, Nantheera and Zhang, Fan and Bull, David},
-  arxiv={2501.02725},
-  year={2025}
-}
-
-
-
-@inproceedings{zhou2025x,
-  title={X-LeBench: A Benchmark for Extremely Long Egocentric Video Understanding},
-  bibtex_show={true},author={Zhou, Wenqi and Cao, Kai and Zheng, Hao and Zheng, Xinyi and Liu, Miao and Kristensson, Per Ola and Mayol-Cuevas, Walterio and Zhang, Fan and Lin, Weizhe and Shen, Junxiao},
-  arxiv={2501.06835},
-  booktitle={EMNLP Findings},
-  year={2025}
-}
-
-@article{zhu2025fcvsr,
-  title={FCVSR: A Frequency-aware Method for Compressed Video Super-Resolution},
-  bibtex_show={true},author={Zhu, Qiang and Zhang, Fan and Chen, Feiyu and Zhu, Shuyuan and Bull, David and Zeng, Bing},
-  journal={IEEE Transactions on Multimedia},
-  code={https://github.com/QZ1-boy/FCVSR},
-  arxiv={2502.06431},
-  year={2025}
-}
-
-@inproceedings{gough2025aquanerf,
-  title={AquaNeRF: Neural radiance fields in underwater media with distractor removal},
-  bibtex_show={true},author={Gough, Luca and Azzarelli, Adrian and Zhang, Fan and Anantrasirichai, Nantheera},
-  booktitle={ISCAS},
-  pages={1--5},
-  arxiv={2502.16351},
-  doi={10.1109/ISCAS56072.2025.11043480},
-  year={2025},
-  organization={IEEE}
-}
-
-@article{chen2024guest,
-  title={Guest Editorial Advances in Generative Visual Signal Coding and Processing},
-  bibtex_show={true},author={Chen, Zhibo and Sun, Heming and Zhang, Li and Zhang, Fan},
-  journal={IEEE JETCAS},
-  volume={14},
-  number={2},
-  pages={145--148},
-  year={2024},
-  doi={10.1109/JETCAS.2024.3403318},
-  publisher={IEEE}
-}
-
-@inproceedings{morris2025dabit,
-  title={DaBiT: Depth and blur informed transformer for video deblurring},
-  bibtex_show={true},author={Morris, Crispian and Anantrasirichai, Nantheera and Zhang, Fan and Bull, David},
-  booktitle={WACV Workshop},
-  arxiv={2407.01230},
-  doi={10.1109/WACVW65960.2025.00038},
-  pages={315--325},
-  year={2025}
-}
-
-@inproceedings{jiang2025c2d,
-  title={C2D-ISR: Optimizing Attention-based Image Super-resolution from Continuous to Discrete Scales},
-  bibtex_show={true},author={Jiang, Yuxuan and Zeng, Chengxi and Teng, Siyue and Zhang, Fan and Zhu, Xiaoqing and Sole, Joel and Bull, David},
-  arxiv={2503.13740},
-  booktitle={ICCV AIGENS Workshop},
-  abbr={ICCV Workshop},
-  annotation={The first framework enabling a discrete scale ISR model to learn from its continuous scale version!},
-  preview={c2d.jpg},
-  year={2025}
-}
-
-@inproceedings{zeng2025agglomerating,
-  title={Agglomerating Large Vision Encoders via Distillation for VFSS Segmentation},
-  bibtex_show={true},author={Zeng, Chengxi and Jiang, Yuxuan and Zhang, Fan and Gambaruto, Alberto and Burghardt, Tilo},
-  arxiv={2504.02351},
-  booktitle={CVPR ELVM Workshop},
-  year={2025}
-}
-
-@inproceedings{lin2025towards,
-  title={Towards a General-Purpose Zero-Shot Synthetic Low-Light Image and Video Pipeline},
-  bibtex_show={true},author={Lin, Joanne and Morris, Crispian and Lin, Ruirui and Zhang, Fan and Bull, David and Anantrasirichai, Nantheera},
-  arxiv={2504.12169},
-  booktitle={ACMMM McGE Workshop},
-  year={2025}
-}
-
-@inproceedings{ren2025tenth,
-  title={The tenth NTIRE 2025 efficient super-resolution challenge report},
-  bibtex_show={true},author={Ren, Bin and Guo, Hang and Sun, Lei and Wu, Zongwei and Timofte, Radu and Li, Yawei},
-  booktitle={CVPR Workshop},
-  arxiv={10.48550/arXiv.2504.10686},
-  pages={917--966},
-  year={2025}
-}
-
-@preprint{peng2025instance,
-  title={Instance Data Condensation for Image Super-Resolution},
-  bibtex_show={true},author={Peng, Tianhao and Kwan, Ho Man and Jiang, Yuxuan and Gao, Ge and Zhang, Fan and Xu, Xiaozhong and Liu, Shan and Bull, David},
-  arxiv={2505.21099},
-  abbr={arXiv},
-  preview={IDC-ISR.jpg},
-  annotation={The first data condensation method for low level vision tasks!},
-  selected={true},
-  year={2025}
-}
-
-@preprint{azzarelli2025vivo,
-  title={ViVo: A Dataset for Volumetric VideoReconstruction and Compression},
-  bibtex_show={true},author={Azzarelli, Adrian and Gao, Ge and Kwan, Ho Man and Zhang, Fan and Anantrasirichai, Nantheera and Moolan-Feroze, Ollie and Bull, David},
-  arxiv={2506.00558},
-  preview={vivo.png},
-  abbr={arXiv},
-  annotation={The first volumetric video dataset with diverse human-centric characteristics and dynamic visual phenomena!},
-  supp={https://vivo-bvicr.github.io/},
-  year={2025}
-}
-
-@inproceedings{li2025ntire,
-  title={NTIRE 2025 challenge on short-form ugc video quality assessment and enhancement: Methods and results},
-  bibtex_show={true},author={Li, Xin and Yuan, Kun and Li, Bingchen and Guan, Fengbin and Shao, Yizhen and Yu, Zihao and Wang, Xijun and Lu, Yiting and Luo, Wei and Yao, Suhang and others},
-  booktitle={CVPR Workshop},
-  arxiv={2504.13131},
-  pages={1092--1103},
-  year={2025}
-}
-
-@inproceedings{jiang2025compressed,
-  title={Compressed Video Super-Resolution based on Hierarchical Encoding},
-  bibtex_show={true},author={Jiang, Yuxuan and Teng, Siyue and Zhu, Qiang and Feng, Chen and Zeng, Chengxi and Zhang, Fan and Zhu, Shuyuan and Zeng, Bing and Bull, David},
-  arxiv={2506.14381},
-  booktitle={ICME Workshop},
-  year={2025}
-}
-
-@inproceedings{feng2025enhancing,
-  title={Enhancing HDR Video Compression based on Deep Effective Bit Depth Adaptation},
-  bibtex_show={true},author={Feng, Chen and Qi, Zihao and Danier, Duolikun and Zhang, Fan and Xu, Xiaozhong and Liu, Shan and Bull, David},
-  booktitle={ISCAS},
-  pages={1--5},
-  arxiv={2207.08634},
-  doi={10.1109/ISCAS56072.2025.11043620},
-  year={2025},
-  organization={IEEE}
-}
-
-@article{liu2025perception,
-  title={Perception-aware Contrastive Learning-based Progressive Image Inpainting},
-  bibtex_show={true},author={Liu, Keyu and Li, Shibo and Qiu, Yajun and Chen, Feiyu and Zhu, Shuyuan and Zeng, Bing and Zhang, Fan},
-  journal={IEEE MultiMedia},
-  doi={10.1109/MMUL.2025.3594221},
-  year={2025},
-  publisher={IEEE}
-}
-
-@article{wu2025distortion,
-  title={Distortion-induced saliency shifts in video},
-  bibtex_show={true},author={Wu, Xinbo and Lou, Jianxun and Dong, Zhengyan and Zhang, Fan and Rosin, Paul and Liu, Hantao},
-  journal={IEEE Transactions on Multimedia},
-  doi={10.1109/TMM.2025.3599087},
-  year={2025},
-  publisher={IEEE}
-}
-
-
-
-@article{ma2021bvi,
-  title={BVI-DVC: a training database for deep video compression},
-  bibtex_show={true},author={Ma, Di and Zhang, Fan and Bull, David},
-  journal={IEEE Transactions on Multimedia},
-  year={2021},
-  volume={24},
-  pages={3847--3858},
-  preview={BVI-DVC.jpg},
-  abbr={TMM},
-  selected={true},
-  arxiv={2003.13552},
-  doi={10.1109/TMM.2021.3108943},
-  supp={../../BVI-DVC/},
-  annotation={The training database used by MPEG JVET for deep video compression!},
-  publisher={IEEE}
-}
+  annotation={The first implicit image function based on hierarchical encoding (for ISR)!

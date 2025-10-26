@@ -3,17 +3,17 @@
 # the socials will be displayed in the order they are defined here
 
 # academia_edu:  your organization and your username Ex. https://organization.academia.edu/UserName
-#  organization: princeton # your organization as appears in the subdomain
+# organization: bristol # your organization as appears in the subdomain
 #  username:  AlbertEinstein # your username
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
-# dblp_url: # your DBLP profile url
+dblp_url: https://dblp.org/pid/21/3626-17 # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
 email: fan.zhang@bristol.ac.uk # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
-# github_username: fan-aaron-zhang# your GitHub user name
+github_username: fan-aaron-zhang # your GitHub user name
 # gitlab_username: # your GitLab user name
 # hal_id: # your HAL id (https://hal.science/)
 # ieee_id: # your ieeexplore.ieee.org/author/id
@@ -27,7 +27,7 @@ email: fan.zhang@bristol.ac.uk # your email address
 linkedin_username: fan-zhang-b32ba430 # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-# orcid_id: # your ORCID ID
+orcid_id: 0000-0001-6623-9936 # your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
