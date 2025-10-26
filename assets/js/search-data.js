@@ -58,7 +58,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/resources/";
           },
-        },{id: "news-nvrc-has-been-accepted-by-neurips-2024",
+        },{id: "news-i-became-a-member-of-the-vspc-tc-associated-with-the-ieee-cas-society",
+          title: 'I became a member of the VSPC-TC associated with the IEEE CAS Society....',
+          description: "",
+          section: "News",},{id: "news-one-paper-has-been-accepted-by-eccv-2024-mtkd",
+          title: 'One paper has been accepted by ECCV 2024: MTKD.',
+          description: "",
+          section: "News",},{id: "news-first-place-in-the-dcc-6th-challenge-on-learned-image-compression-clic-nr-vqa-track-certificate",
+          title: 'First Place in the DCC 6th Challenge on Learned Image Compression (CLIC, NR...',
+          description: "",
+          section: "News",},{id: "news-winner-of-the-practical-end-to-end-image-video-compression-challenge-in-ieee-mmsp-2024-certificate",
+          title: 'Winner of the Practical End-to-end Image/Video Compression Challenge in IEEE MMSP 2024 [Certificate]....',
+          description: "",
+          section: "News",},{id: "news-nvrc-has-been-accepted-by-neurips-2024",
           title: 'NVRC has been accepted by NeurIPS 2024.',
           description: "",
           section: "News",},{id: "news-two-papers-have-been-accepted-by-vcip-2024-bvi-aom-and-nvc-benchmarking",
@@ -107,6 +119,13 @@ ninja.data = [{
           title: 'FCVSR has been accepted by IEEE TMM.',
           description: "",
           section: "News",},{
+        id: 'social-dblp',
+        title: 'DBLP',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://dblp.org/pid/21/3626-17", "_blank");
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
@@ -114,11 +133,25 @@ ninja.data = [{
           window.open("mailto:%66%61%6E.%7A%68%61%6E%67@%62%72%69%73%74%6F%6C.%61%63.%75%6B", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/fan-aaron-zhang", "_blank");
+        },
+      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/fan-zhang-b32ba430", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0001-6623-9936", "_blank");
         },
       },{
         id: 'social-scholar',
