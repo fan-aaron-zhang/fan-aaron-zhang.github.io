@@ -34,8 +34,8 @@ I have won several international challenges related to video compression and qua
 
 I am a Senior Member of the IEEE, a Fellow of the Higher Education Academy (HEA), and a member of the Visual Signal Processing and Communications Technical Committee (VSPC TC) within the IEEE Circuits and Systems Society.
 
-Email: fan.zhang@bristol.ac.uk<br>
-Address: G.05 MVB, Woodland Road, Bristol, UK, BS8 1UB
+Email: [fan.zhang@bristol.ac.uk](mailto:fan.zhang@bristol.ac.uk)<br>
+Address: [G.05 MVB, Woodland Road, Bristol, UK, BS8 1UB](https://maps.app.goo.gl/i83WPVJ7L34Fu2YcA)
 
 <a href='https://www.bristol.ac.uk'><img src="/assets/img/UoB_Black_24.svg" width="15%" alt="isolated"></a>
 <a href='https://www.bristol.ac.uk/vision-institute'><img src="/assets/img/VILAB_gray.svg" width="15%" alt="isolated"></a>
