@@ -28,8 +28,9 @@ PhD researchers
 **2025-now** &emsp;	[Yuming Li](https://research-information.bris.ac.uk/en/persons/yuming-li) (co-supervised with [Dr. Alin Achim](https://scholar.google.com/citations?user=I0f9BuIAAAAJ&hl))<br>
 
 
-past researchers
+alumni
 
+**2017-2021** &ensp;	[Di Ma](https://scholar.google.com/citations?user=NfT60qwAAAAJ&hl) (co-supervised with [Prof. David Bull](https://david-bull.github.io))<br>
 **2021-2025** &ensp;	[Duolikun Danier](https://danier97.github.io) (co-supervised with [Prof. David Bull](https://david-bull.github.io))<br>
 **2021-2025** &ensp;	[Chen Feng](https://chenfeng-bristol.github.io)<br>
 **2022-2024** &ensp;	[Jakub Nawala](https://scholar.google.com/citations?user=vYbSxIgAAAAJ&hl) (PDRA)<br>
