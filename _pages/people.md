@@ -26,6 +26,7 @@ PhD researchers
 **2024-now** &emsp;	[Wenqi Zhou](https://research-information.bris.ac.uk/en/persons/wenqi-zhou) (co-supervised with [Dr. Junxiao (Shawn) Shen](https://shawnshenjx.github.io))<br>
 **2024-now** &emsp;	[Hao Zheng](https://research-information.bris.ac.uk/en/persons/hao-zheng) (co-supervised with [Dr. Junxiao (Shawn) Shen](https://shawnshenjx.github.io))<br>
 **2025-now** &emsp;	[Yuming Li](https://research-information.bris.ac.uk/en/persons/yuming-li) (co-supervised with [Dr. Alin Achim](https://scholar.google.com/citations?user=I0f9BuIAAAAJ&hl))<br>
+**2025-now** &emsp;	[Changqi Wang](https://wangchangqi98.github.io/)<br>
 
 
 alumni
