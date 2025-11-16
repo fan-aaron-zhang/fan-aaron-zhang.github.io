@@ -118,6 +118,9 @@ ninja.data = [{
           section: "News",},{id: "news-fcvsr-has-been-accepted-by-ieee-tmm",
           title: 'FCVSR has been accepted by IEEE TMM.',
           description: "",
+          section: "News",},{id: "news-i-became-a-senior-area-editor-of-ieee-transactions-on-circuits-and-systems-for-video-technology-tcsvt",
+          title: 'I became a Senior Area Editor of IEEE Transactions on Circuits and Systems...',
+          description: "",
           section: "News",},{
         id: 'social-dblp',
         title: 'DBLP',
