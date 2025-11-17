@@ -30,12 +30,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-talks",
-          title: "talks",
-          description: "",
+        },{id: "nav-engagements",
+          title: "engagements",
+          description: "talks, editorship, membership and organisation works",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/talks/";
+            window.location.href = "/engagements/";
           },
         },{id: "nav-esteem",
           title: "esteem",
