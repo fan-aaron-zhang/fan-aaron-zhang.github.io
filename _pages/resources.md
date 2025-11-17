@@ -20,6 +20,8 @@ video coding algorithms
 [HiNeRV [NeurIPS2023]](https://github.com/hmkx/HiNeRV): video compression with hierarchical encoding-based neural representation<br>
 [MV-HiNeRV [PCS2024]](https://github.com/hmkx/HiNeRV): Immersive Video Compression using Implicit Neural Representations<br>
 [NVRC [NeurIPS2024]](https://github.com/hmkx/NVRC): Neural Video Representation Compression<br>
+[PNVC [AAAI2025]](https://github.com/ge1-gao/neural-video-codec): a practical INR-based video compression<br>
+[GIViC [ICCV2025]](https://github.com/ge1-gao/neural-video-codec): generative implicit video compression<br>
 
 quality models
 
