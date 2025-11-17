@@ -6,7 +6,6 @@ description: the researchers I have worked with
 nav: true
 nav_order: 7
 ---
-
 ---
 PDRA researchers
 
