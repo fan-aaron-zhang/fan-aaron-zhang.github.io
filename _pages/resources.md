@@ -42,6 +42,7 @@ other image processing methods
 [HIIF [CVPR2025]](https://github.com/YuxuanJJ/HIIF): Hierarchical Encoding based Implicit Image Function for Continuous Super-resolution<br>
 [BVSR-IK [ICCV2025]](https://github.com/QZ1-boy/BVSR-IK): Blind Video Super-Resolution based on Implicit Kernels<br>
 [FCVSR [TMM]](https://github.com/QZ1-boy/FCVSR): A frequency-aware Method for Compressed Video Super-Resolution<br>
+[EfficientSAM3 [arXiv]](https://github.com/SimonZeng7108/efficientsam3): Progressive Hierachical Knowledge Distillation (PhD) from SAM1, 2 and 3<br>
 
 
 ### databases
