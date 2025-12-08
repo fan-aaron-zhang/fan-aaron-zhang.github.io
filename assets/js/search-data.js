@@ -121,6 +121,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-became-a-senior-area-editor-of-ieee-transactions-on-circuits-and-systems-for-video-technology-tcsvt",
           title: 'I became a Senior Area Editor of IEEE Transactions on Circuits and Systems...',
           description: "",
+          section: "News",},{id: "news-the-source-code-for-pnvc-aaai-2025-and-givic-iccv-2025-has-been-released",
+          title: 'The source code for PNVC [AAAI 2025] and GIViC [ICCV 2025] has been...',
+          description: "",
           section: "News",},{
         id: 'social-dblp',
         title: 'DBLP',
