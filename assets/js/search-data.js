@@ -124,6 +124,9 @@ ninja.data = [{
           section: "News",},{id: "news-the-source-code-for-pnvc-aaai-2025-and-givic-iccv-2025-has-been-released",
           title: 'The source code for PNVC [AAAI 2025] and GIViC [ICCV 2025] has been...',
           description: "",
+          section: "News",},{id: "news-i-have-been-invited-to-be-part-of-the-panel-discussion-in-the-session-of-challenge-on-learned-image-compression-clic-at-pcs-2025",
+          title: 'I have been invited to be part of the panel discussion in the...',
+          description: "",
           section: "News",},{
         id: 'social-dblp',
         title: 'DBLP',
