@@ -10,6 +10,7 @@ nav_order: 7
 PDRA researchers
 
 **2022-now** &emsp;	[Ge Gao](https://scholar.google.com/citations?user=j2_80ewAAAAJ&hl)<br>
+**2025-now** &emsp;	[Yixuan Li](https://yixuanli423.github.io/)<br>
 
 PhD researchers
 

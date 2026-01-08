@@ -9,6 +9,7 @@ nav_order: 5
 ---
 talks
 
+**2025** &emsp; &emsp;&ensp;&thinsp;&thinsp;    Neural Video Compression: The Latest Advances @ ***Sun Yat-sen University*** <br>
 **2025** &emsp; &emsp;&ensp;&thinsp;&thinsp;    AI-based Video Compression @ ***BTF+, Bristol*** <br>
 **2025** &emsp; &emsp;&ensp;&thinsp;&thinsp;    Recent Advances in Neural Video Coding @ ***Netflix, online*** <br>
 **2025** &emsp; &emsp;&ensp;&thinsp;&thinsp;    Learning-based Video Compression: the Past, Present and Future @ ***SJTU, Shanghai*** <br>
@@ -20,6 +21,10 @@ talks
 **2019** &emsp; &emsp;&ensp;&thinsp;&thinsp;    Perceptual Video Compression and Quality Assessment @ ***Visionular, online*** <br>
 **2017** &emsp; &emsp;&ensp;&thinsp;&thinsp;   	Perceptual Compression for Immersive Video formats  @ ***Cardiff University, Cardiff*** <br>
 **2016** &emsp; &emsp;&ensp;&thinsp;&thinsp;  	Image and Video Quality Assessment: What's Wrong with MSE?  @ ***SONY R&D, Bristol*** <br>
+
+panels
+
+**2025** &emsp; &emsp;&ensp;&thinsp;&thinsp;    Challenge on Learned Image Compression @ ***PCS 2025, Aachen*** <br>
 
 editorship
 
