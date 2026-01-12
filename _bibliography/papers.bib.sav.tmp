@@ -921,15 +921,16 @@ title={Support for reduced presentation durations in subjective video quality as
   publisher={Frontiers}
 }
 
-@inproceedings{katsenou2022cnn,
-  title={A CNN-based Post-Processor for Perceptually-Optimized Immersive Media Compression},
-  bibtex_show={true},author={Katsenou, Angeliki and Zhang, Fan and Bull, David},
-  booktitle={ICIP},
-  pages={2761--2765},
-  year={2022},
-  arxiv={2202.12852},
-  doi={ 10.1109/ICIP46576.2022.9897759},
-  organization={IEEE}
+@InProceedings{katsenou2022cnn,
+  author       = {Katsenou, Angeliki and Zhang, Fan and Bull, David},
+  booktitle    = {ICIP},
+  title        = {A CNN-based Post-Processor for Perceptually-Optimized Immersive Media Compression},
+  year         = {2022},
+  organization = {IEEE},
+  pages        = {2761--2765},
+  arxiv        = {2202.12852},
+  bibtex_show  = {true},
+  doi          = {10.1109/ICIP46576.2022.9897759},
 }
 
 @inproceedings{nagaraju2021key,
@@ -1048,8 +1049,7 @@ title={Support for reduced presentation durations in subjective video quality as
   pages={132440--132462},
   code={https://github.com/hmkx/NVRC},
   preview={nvrc.svg},
-  doi={10.52202/079017-4210},
-  arxiv={2409.07414},
+  arxiv={2406.00212},
   abbr={NeurIPS},
   annotation={The first INR-based video codec outperforming VTM (RA)!},
   year={2024}
@@ -1400,42 +1400,4 @@ title={Support for reduced presentation durations in subjective video quality as
   organization={IEEE}
 }
 
-@article{liu2025perception,
-  title={Perception-aware Contrastive Learning-based Progressive Image Inpainting},
-  bibtex_show={true},author={Liu, Keyu and Li, Shibo and Qiu, Yajun and Chen, Feiyu and Zhu, Shuyuan and Zeng, Bing and Zhang, Fan},
-  journal={IEEE MultiMedia},
-  doi={10.1109/MMUL.2025.3594221},
-  year={2025},
-  publisher={IEEE}
-}
-
-@article{wu2025distortion,
-  title={Distortion-induced saliency shifts in video},
-  bibtex_show={true},author={Wu, Xinbo and Lou, Jianxun and Dong, Zhengyan and Zhang, Fan and Rosin, Paul and Liu, Hantao},
-  journal={IEEE Transactions on Multimedia},
-  doi={10.1109/TMM.2025.3599087},
-  year={2025},
-  publisher={IEEE}
-}
-
-
-
-
-
-@preprint{teng2025gfix,
-  title={GFix: Perceptually Enhanced Gaussian Splatting Video Compression},
-  bibtex_show={true},
-  preview={gfix.svg},
-  author={Teng, Siyue and Gao, Ge and Danier, Duolikun and Jiang, Yuxuan and Zhang, Fan and Davis, Thomas and Liu, Zoe and Bull, David},
-  journal={arXiv preprint arXiv:2511.06953},
-  arxiv={2511.06953},
-  abbr={arXiv},
-  year={2025}
-}
-
-
-
-
-
-
-
+@article{liu2025percep
