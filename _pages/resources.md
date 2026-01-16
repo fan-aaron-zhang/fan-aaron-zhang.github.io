@@ -47,14 +47,14 @@ other image processing methods
 
 ### databases
 
-[BVI-HD](../../BVI-HD): a perceptual video quality database for HEVC and texture synthesis compressed content<br>
-[BVI-HFR](../../BVI-HFR): a high frame rate video database<br>
-[BVI-SR](../../BVI-SR): a study of subjective video quality at various spatial resolutions<br>
-[BVI-HomTex](../../BVI-HD): a video database with various types of homogeneous textures<br>
+[BVI-HD](https://fan-aaron-zhang.github.io/BVI-HD): a perceptual video quality database for HEVC and texture synthesis compressed content<br>
+[BVI-HFR](https://fan-aaron-zhang.github.io/BVI-HFR): a high frame rate video database<br>
+[BVI-SR](https://fan-aaron-zhang.github.io/BVI-SR): a study of subjective video quality at various spatial resolutions<br>
+[BVI-HomTex](https://fan-aaron-zhang.github.io/BVI-HD): a video database with various types of homogeneous textures<br>
 [BVI-Texture](https://data.bris.ac.uk/datasets/1if54ya4xpph81fbo1gkpk5kk4/): a video texture database for perceptual compression and quality assessment<br>
 [BVI-SynTex](httphttps://data.bris.ac.uk/data/dataset/1if54ya4xpph81fbo1gkpk5kk4): a synthetic video texture dataset for video compression and quality assessment<br>
-[BVI-DVC](../../BVI-DVC): a training database for deep video compression<br>
-[BVI-CC](../../BVI-CC): a video database for codec comparison and quality assessment<br>
+[BVI-DVC](https://fan-aaron-zhang.github.io/BVI-DVC): a training database for deep video compression<br>
+[BVI-CC](https://fan-aaron-zhang.github.io/BVI-CC): a video database for codec comparison and quality assessment<br>
 [BVI-VFI](https://github.com/danier97/BVI-VFI-database): a subjective quality study for video frame interpolation<br>
 [BVI-UGC](https://zihaoq1.github.io/BVI-UGC/): A Video Quality Database for User-Generated Content Transcoding<br>
 [BVI-Artefact](https://chenfeng-bristol.github.io/BVI-Artefact/): An Artefact Detection Benchmark Dataset for Streamed Videos<br>
