@@ -127,6 +127,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-have-been-invited-to-be-part-of-the-panel-discussion-in-the-session-of-challenge-on-learned-image-compression-clic-at-pcs-2025",
           title: 'I have been invited to be part of the panel discussion in the...',
           description: "",
+          section: "News",},{id: "news-the-paper-gfix-has-been-accepted-by-iscas-2026",
+          title: 'The paper GFix has been accepted by ISCAS 2026.',
+          description: "",
           section: "News",},{
         id: 'social-dblp',
         title: 'DBLP',
