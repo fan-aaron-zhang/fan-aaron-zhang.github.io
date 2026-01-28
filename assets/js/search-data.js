@@ -130,6 +130,9 @@ ninja.data = [{
           section: "News",},{id: "news-the-paper-gfix-has-been-accepted-by-iscas-2026",
           title: 'The paper GFix has been accepted by ISCAS 2026.',
           description: "",
+          section: "News",},{id: "news-one-paper-has-been-accepted-by-iclr-2026-ts-mamba",
+          title: 'One paper has been accepted by [ICLR 2026]: TS-Mamba .',
+          description: "",
           section: "News",},{
         id: 'social-dblp',
         title: 'DBLP',
