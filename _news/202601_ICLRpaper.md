@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper has been accepted by [ICLR 2026]: [TS-Mamba](https://arxiv.org/abs/2508.10453) .
+One paper has been accepted by [ICLR 2026](https://iclr.cc/Conferences/2026): [TS-Mamba](https://arxiv.org/abs/2508.10453) .
