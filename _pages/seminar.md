@@ -10,6 +10,8 @@ permalink: /seminars/
 
 Regular seminars are organised by VI-Lab academics, Dr Aaron Zhang and Dr Pui Anantrasirichai, with both internal and external speakers.
 
+<br>
+
 ### list of seminars
 
 <br>
