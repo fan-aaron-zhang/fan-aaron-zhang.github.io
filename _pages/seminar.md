@@ -9,7 +9,7 @@ permalink: /seminars/
 ---
 ### about
 
-Regular seminars in a hybrid manner are organised by VI-Lab academics, Dr Aaron Zhang and Dr Pui Anantrasirichai, with both internal and external speakers. They are always held on Wednesdays at 2pm (UK time).
+Regular hybrid seminars are organised by VI-Lab academics [Dr Aaron Zhang](https://fan-aaron-zhang.github.io/) and [Dr Pui Anantrasirichai](https://pui-nantheera.github.io/), featuring both internal and external speakers. The seminars are held every Wednesday at 2pm (UK time).
 
 Teams: [Link](https://teams.microsoft.com/l/meetup-join/19%3asa7IsaNmMjEZDjrSBQ3ijkL1vTW53gFDwI6C6F4Lcb41%40thread.tacv2/1651230892500?context=%7b%22Tid%22%3a%22b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b%22%2c%22Oid%22%3a%22a0f1919d-8efe-4de8-800c-d3311b478102%22%7d)
 
