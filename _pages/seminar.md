@@ -6,6 +6,7 @@ nav: false
 permalink: /seminars/
 ---
 
+---
 ### about
 
 Regular seminars in a hybrid manner are organised by VI-Lab academics, Dr Aaron Zhang and Dr Pui Anantrasirichai, with both internal and external speakers. They are always held on Wednesdays at 2pm (UK time).
