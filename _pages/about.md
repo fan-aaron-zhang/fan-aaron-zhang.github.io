@@ -42,10 +42,10 @@ Address: [G.05 MVB, Woodland Road, Bristol, UK, BS8 1UB](https://maps.app.goo.gl
 <a href='https://vilab.blogs.bristol.ac.uk'><img src="/assets/img/BVI_gray.svg" width="15%" alt="isolated"></a>
 
 ---
-## recruitment
+<!-- ## recruitment
 
 I am open to PhD applications for the 2026 intake. Please email me your CV. Possible funding opportunities include:
 - [China Scholarship Council-University of Bristol PhD Scholarship](https://www.bristol.ac.uk/students/support/finances/scholarships/china-scholarship-council/) (60 per year at Bristol)
 - [University Postgraduate Research Scholarships](https://www.bristol.ac.uk/science-engineering/postgraduate-research/pgr-scholarships/)
 
----
+--- -->
