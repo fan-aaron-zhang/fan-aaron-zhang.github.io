@@ -133,6 +133,9 @@ ninja.data = [{
           section: "News",},{id: "news-one-paper-has-been-accepted-by-iclr-2026-ts-mamba",
           title: 'One paper has been accepted by ICLR 2026: TS-Mamba .',
           description: "",
+          section: "News",},{id: "news-the-paper-prune-wisely-reconstruct-sharply-has-been-accepted-by-cvpr-2026",
+          title: 'The paper Prune Wisely, Reconstruct Sharply has been accepted by CVPR 2026.',
+          description: "",
           section: "News",},{
         id: 'social-dblp',
         title: 'DBLP',
