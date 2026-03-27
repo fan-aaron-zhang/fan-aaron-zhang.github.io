@@ -6,10 +6,10 @@ nav: true
 nav_order: 6
 ---
 
-**2025**  &emsp;	[First Prize](/assets/img/ISCAS2025_GC.png) in the 4th Neural Network Video Coding Grand Challenge in IEEE ISCAS 2025 (Hybrid Track)<br>
-**2024**  &emsp;	[Winner](/assets/pdf/MMSP_INRVC.pdf) of the IEEE MMSP 3rd Practical End-to-end Image/Video Compression Challenge (Track 2)<br>
-**2024**  &emsp;	[Third Place](/assets/pdf/AIM2024-VSR.pdf) in the ECCV 2024 AIM Challenge in Efficient Video Super-Resolution<br>
-**2024**  &emsp;	[First Place](/assets/pdf/CLIC 2024 BVI_VQA.pdf) in the DCC 6th Challenge on Learned Image Compression (CLIC, NR VQA Track)<br>
-**2023**  &emsp;	[First Prize](/assets/pdf/WACV_2023.pdf) in the IEEE/CVF WACV HDR VQA Grand Challenge (No Reference Track)<br>
-**2017**  &emsp;	[Winner](/assets/pdf/ICIP_2017.pdf) of the IEEE ICIP Video Compression Grand Challenge<br>
+|**2025**  |	[First Prize](/assets/img/ISCAS2025_GC.png)| Neural Network Video Coding Grand Challenge (Hybrid Track)|  IEEE ISCAS |
+|**2024**  |	[Winner](/assets/pdf/MMSP_INRVC.pdf)| Practical End-to-end Image/Video Compression Challenge (Track 2) | IEEE MMSP |
+|**2024**  |	[Third Place](/assets/pdf/AIM2024-VSR.pdf)| AIM Challenge in Efficient Video Super-Resolution | ECCV |
+|**2024**  |	[First Place](/assets/pdf/CLIC 2024 BVI_VQA.pdf)| Challenge on Learned Image Compression (CLIC, NR VQA Track) | DCC |
+|**2023**  |	[First Prize](/assets/pdf/WACV_2023.pdf)| HDR VQA Grand Challenge (No Reference Track) | IEEE/CVF WACV  |
+|**2017**  |	[Winner](/assets/pdf/ICIP_2017.pdf)| Video Compression Grand Challenge| IEEE ICIP |
 
