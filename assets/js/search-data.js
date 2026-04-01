@@ -136,6 +136,9 @@ ninja.data = [{
           section: "News",},{id: "news-the-paper-prune-wisely-reconstruct-sharply-has-been-accepted-by-cvpr-2026",
           title: 'The paper Prune Wisely, Reconstruct Sharply has been accepted by CVPR 2026.',
           description: "",
+          section: "News",},{id: "news-our-latest-neural-video-coding-review-and-benchmark-paper-has-been-made-available-on-preprints",
+          title: 'Our latest neural video coding review and benchmark paper has been made available...',
+          description: "",
           section: "News",},{
         id: 'social-dblp',
         title: 'DBLP',
