@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-The source code for [PNVC [AAAI 2025]](https://github.com/ge1-gao/neural-video-codec) and [GIViC [ICCV 2025]](https://github.com/ge1-gao/neural-video-codec) has been released.
+The source code for [PNVC [AAAI 2025 Oral]](https://github.com/ge1-gao/PNVC) and [GIViC [ICCV 2025]](https://github.com/ge1-gao/GIViC) has been released.
 
