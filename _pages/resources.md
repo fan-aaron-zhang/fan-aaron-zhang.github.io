@@ -23,8 +23,8 @@ nav_order: 8
 |[HiNeRV [NeurIPS2023]](https://github.com/hmkx/HiNeRV)| video compression with hierarchical encoding-based neural representation|
 |[MV-HiNeRV [PCS2024]](https://github.com/hmkx/HiNeRV)| Immersive Video Compression using Implicit Neural Representations|
 |[NVRC [NeurIPS2024]](https://github.com/hmkx/NVRC)| Neural Video Representation Compression|
-|[PNVC [AAAI2025]](https://github.com/ge1-gao/neural-video-codec)| a practical INR-based video compression|
-|[GIViC [ICCV2025]](https://github.com/ge1-gao/neural-video-codec)| generative implicit video compression|
+|[PNVC [AAAI2025]](https://github.com/ge1-gao/PNVC)| a practical INR-based video compression model|
+|[GIViC [ICCV2025]](https://github.com/ge1-gao/GIViC)| generative implicit video compression|
 | | |
 |quality models| |
 | | |
