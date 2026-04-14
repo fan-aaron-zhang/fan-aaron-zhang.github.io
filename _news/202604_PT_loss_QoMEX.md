@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-A paper has been accepted by QoMEX 2026 on [UGC trancoding loss](https://arxiv.org/abs/2603.25566).
+The [paper on UGC trancoding loss](https://arxiv.org/abs/2603.25566) has been accepted by QoMEX 2026.
 
