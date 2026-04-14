@@ -63,4 +63,4 @@ nav_order: 8
 |[BVI-Artefact [PCS2024]](https://chenfeng-bristol.github.io/BVI-Artefact/)| An Artefact Detection Benchmark Dataset for Streamed Videos|
 |[BVI-AOM [VCIP2024]](https://github.com/fan-aaron-zhang/bvi-aom)| A Training Database for Video Compression Research|
 |[BVI-CR [ISCAS2025]](https://github.com/fan-aaron-zhang/bvi-cr)| A Multi-View Human Dataset for Volumetric Video Compression|
-|[ViVo [arXiv2025]](https://vivo-bvicr.github.io/)| A Dataset for Volumetric VideoReconstruction and Compression|
+|[ViVo [arXiv2025]](https://vivo-bvicr.github.io/)| A Dataset for Volumetric Video Reconstruction and Compression|
