@@ -139,6 +139,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-latest-neural-video-coding-review-and-benchmark-paper-has-been-made-available-on-preprints",
           title: 'Our latest neural video coding review and benchmark paper has been made available...',
           description: "",
+          section: "News",},{id: "news-vivo-has-been-accepted-by-ieee-tcsvt-with-database-available-for-download",
+          title: 'ViVo has been accepted by IEEE TCSVT, with database available for [Download].',
+          description: "",
           section: "News",},{
         id: 'social-dblp',
         title: 'DBLP',
