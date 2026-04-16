@@ -145,6 +145,9 @@ ninja.data = [{
           section: "News",},{id: "news-vivo-has-been-accepted-by-ieee-tcsvt-with-database-available-for-download",
           title: 'ViVo has been accepted by IEEE TCSVT, with database available for [Download].',
           description: "",
+          section: "News",},{id: "news-sam3-litetext-has-been-accepted-by-acm-icmr-2026",
+          title: 'SAM3-LiteText has been accepted by ACM ICMR 2026.',
+          description: "",
           section: "News",},{
         id: 'social-dblp',
         title: 'DBLP',
