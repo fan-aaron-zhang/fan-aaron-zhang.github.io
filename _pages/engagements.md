@@ -11,7 +11,8 @@ nav_order: 5
 
 |talks| | |
 | | | |
-|**2025**|		Neural Video Compression: The Latest Advances 					| **Sun Yat-sen University** |
+|**2026**|		Advances in Neural Video Compression 							| **Hangzhou Dianzi University, Hangzhou** |
+|**2025**|		Neural Video Compression: The Latest Advances 					| **Sun Yat-sen University, Shenzhen** |
 |**2025**|    	AI-based Video Compression 										| **BTF+, Bristol** |
 |**2025**|    	Recent Advances in Neural Video Coding 							| **Netflix, online** |
 |**2025**|    	Learning-based Video Compression: the Past, Present and Future 	| **SJTU, Shanghai** |
@@ -30,11 +31,12 @@ nav_order: 5
 | | | |
 |editorship| | | 
 | | | |
+|**2026-now**|  Area Chair | [**NeurIPS**](https://neurips.cc/) |
 |**2025-now**|  Senior Area Editor | [**IEEE T-CSVT**](https://ieee-cas.org/publications/transactions-circuits-and-systems-video-technology) |
 |**2025-now**|  Review Committee Member (Meta Reviewer) | **IEEE ISCAS** |
-|**2021-2024**|	Associate Editor | [**IEEE T-CSVT**](https://ieee-cas.org/publications/transactions-circuits-and-systems-video-technology) |
 |**2024**| 		Guest Editor | [**IEEE JETCAS**](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=10578329&punumber=5503868) |
 |**2022**| 		Guest Editor | [**Frontiers in Signal Processing**](https://www.frontiersin.org/research-topics/26462/video-content-production-and-delivery-over-ip-networks-and-distributed-computing-facilities/magazine) |
+|**2021-2024**|	Associate Editor | [**IEEE T-CSVT**](https://ieee-cas.org/publications/transactions-circuits-and-systems-video-technology) |
 | | | |
 |membership| | | 
 | | | |
