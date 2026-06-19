@@ -34,6 +34,7 @@ nav_order: 8
 |[RankDVQA [WACV2024]](https://github.com/ChenFeng-Bristol/RankDVQA_release)| Deep VQA based on a Novel Hybrid Training Methodology|
 |[RMT-BVQA [ECCVW2024]](https://github.com/jasminepp/RMTBVQA)| RMT-based Blind VQA for Enhanced Video Content|
 |[MVAD [WACV2025]](https://github.com/ChenFeng-Bristol/MVAD)| A Multiple Visual Artifact Detector for Video Streaming|
+|[Q-Tacit [arXiv]](https://github.com/YuxuanJJ/Q-Tacit)| Image Quality Assessment via Latent Visual Reasoning|
 | | |
 |misc. | |
 | | |
