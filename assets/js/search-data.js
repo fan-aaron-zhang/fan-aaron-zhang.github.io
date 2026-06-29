@@ -148,6 +148,9 @@ ninja.data = [{
           section: "News",},{id: "news-sam3-litetext-has-been-accepted-by-acm-icmr-2026",
           title: 'SAM3-LiteText has been accepted by ACM ICMR 2026.',
           description: "",
+          section: "News",},{id: "news-nvrc-has-been-accepted-by-eccv-2026",
+          title: 'NVRC++ has been accepted by ECCV 2026.',
+          description: "",
           section: "News",},{
         id: 'social-dblp',
         title: 'DBLP',
