@@ -33,7 +33,7 @@ nav_order: 7
 | | | | 
 |**2017-2021**| [Di Ma](https://scholar.google.com/citations?user=NfT60qwAAAAJ&hl) 				|with [Prof. David Bull](https://david-bull.github.io)|
 |**2021-2025**| [Duolikun Danier](https://danier97.github.io) 									|with [Prof. David Bull](https://david-bull.github.io)|
-|**2021-2025**| [Chen Feng](https://chenfeng-bristol.github.io) 								|main supervisor, with [Prof. David Bull](https://david-bull.github.io) (UoB Best thesis Award)|
+|**2021-2025**| [Chen Feng](https://chenfeng-bristol.github.io) 								|main supervisor, with [Prof. David Bull](https://david-bull.github.io) (UoB Best Thesis Award)|
 |**2022-2024**| [Jakub Nawala](https://scholar.google.com/citations?user=vYbSxIgAAAAJ&hl) 		|PDRA|
 |**2024-2025**| [Qiang Zhu](https://scholar.google.com/citations?user=scgM6GgAAAAJ&hl) 			|visiting PhD researcher|	
 |**2025**  	  |	[Chengxi (Simon) Zeng](https://simonzeng7108.github.io/) 						|PDRA|
