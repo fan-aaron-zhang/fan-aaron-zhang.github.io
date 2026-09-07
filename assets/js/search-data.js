@@ -151,6 +151,9 @@ ninja.data = [{
           section: "News",},{id: "news-nvrc-has-been-accepted-by-eccv-2026",
           title: 'NVRC++ has been accepted by ECCV 2026.',
           description: "",
+          section: "News",},{id: "news-our-survey-paper-human-inspired-perspectives-a-survey-on-ai-long-term-memory-has-been-accepted-and-published-by-proceedings-of-the-ieee",
+          title: 'Our survey paper, “Human-Inspired Perspectives: A Survey on AI Long-Term Memory” has been...',
+          description: "",
           section: "News",},{
         id: 'social-dblp',
         title: 'DBLP',
