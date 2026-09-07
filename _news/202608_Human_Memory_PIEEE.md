@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our survey paper, "Human-Inspired Perspectives: A Survey on AI Long-Term Memory"[ViVo](http://arxiv.org/abs/2506.00558) has been accepted by Proceedings of the IEEE.
+Our survey paper, ["Human-Inspired Perspectives: A Survey on AI Long-Term Memory"](http://arxiv.org/abs/2411.00489) has been accepted and published by Proceedings of the IEEE.
