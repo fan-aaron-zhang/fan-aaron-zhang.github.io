@@ -154,8 +154,8 @@ ninja.data = [{
           section: "News",},{id: "news-our-survey-paper-human-inspired-perspectives-a-survey-on-ai-long-term-memory-has-been-accepted-and-published-by-proceedings-of-the-ieee",
           title: 'Our survey paper, “Human-Inspired Perspectives: A Survey on AI Long-Term Memory” has been...',
           description: "",
-          section: "News",},{id: "news-two-papers-were-accepted-by-neurips-2026-saga-http-arxiv-org-abs-2609-33969-and-perq-https-arxiv-org-abs-2610-27374",
-          title: 'Two papers were accepted by NeurIPS 2026: [SAGA](http://arxiv.org/abs/2609.33969) and [PerQ](https://arxiv.org/abs/2610.27374).',
+          section: "News",},{id: "news-two-papers-were-accepted-by-neurips-2026-saga-and-perq",
+          title: 'Two papers were accepted by NeurIPS 2026: SAGA and PerQ.',
           description: "",
           section: "News",},{
         id: 'social-dblp',
