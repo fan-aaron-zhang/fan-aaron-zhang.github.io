@@ -47,6 +47,7 @@ nav_order: 5
 | | | |
 |organisation| | | 
 | | | |
+|**2026**|		Co-organiser of Special Session | **ICME** |
 |**2025**|		Co-organiser of [AIGENS Workshop](https://ai4streaming-workshop.github.io/) | **ICCV** |
 |**2025**|		Co-organiser of Special Session | **PCS** |
 |**2021**|		Finance Chair | **PCS** |
