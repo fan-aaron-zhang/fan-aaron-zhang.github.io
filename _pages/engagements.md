@@ -34,6 +34,7 @@ nav_order: 5
 |**2026-now**|  Area Chair | [**NeurIPS**](https://neurips.cc/) |
 |**2025-now**|  Senior Area Editor | [**IEEE T-CSVT**](https://ieee-cas.org/publications/transactions-circuits-and-systems-video-technology) |
 |**2025-now**|  Review Committee Member (Meta Reviewer) | **IEEE ISCAS** |
+|**2026**| 		Guest Editor | [**MDPI Journal of Imaging**](https://www.mdpi.com/journal/jimaging/special_issues/18UD36HSWJ) |
 |**2024**| 		Guest Editor | [**IEEE JETCAS**](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=10578329&punumber=5503868) |
 |**2022**| 		Guest Editor | [**Frontiers in Signal Processing**](https://www.frontiersin.org/research-topics/26462/video-content-production-and-delivery-over-ip-networks-and-distributed-computing-facilities/magazine) |
 |**2021-2024**|	Associate Editor | [**IEEE T-CSVT**](https://ieee-cas.org/publications/transactions-circuits-and-systems-video-technology) |
