@@ -28,6 +28,7 @@ nav_order: 8
 |[NVRC++ [ECCV2026]](https://hmkx.github.io/nvrc-pp/)| Enhanced Neural Video Representation Compression Across Extreme Complexity and Quality Scales|
 |[PerQ [NeurIPS2026]](https://github.com/jasminepp/PerQ)| Inverse Generative Modeling for Neural Image Compression via Quantization Error Compensation|
 |[SAGA [NeurIPS2026]](https://github.com/ge1gao/SAGA-NeurIPS26)| Gaussian Splatting-based Volumetric Video Compression with Sparse 4D Anchors|
+|[S-NVRC [WACV2027]](https://jasminepp.github.io/Scalable-NVRC/)| Scalable Neural Video Representation Compression|
 | | |
 |quality models| |
 | | |
