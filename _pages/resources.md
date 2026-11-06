@@ -25,6 +25,9 @@ nav_order: 8
 |[NVRC [NeurIPS2024]](https://github.com/hmkx/NVRC)| Neural Video Representation Compression|
 |[PNVC [AAAI2025]](https://github.com/ge1-gao/PNVC)| a practical INR-based video compression model|
 |[GIViC [ICCV2025]](https://github.com/ge1-gao/GIViC)| generative implicit video compression|
+|[NVRC++ [ECCV2026]](https://hmkx.github.io/nvrc-pp/)| Enhanced Neural Video Representation Compression Across Extreme Complexity and Quality Scales|
+|[PerQ [NeurIPS2026]](https://github.com/jasminepp/PerQ)| Inverse Generative Modeling for Neural Image Compression via Quantization Error Compensation|
+|[SAGA [NeurIPS2026]](https://github.com/ge1gao/SAGA-NeurIPS26)| Gaussian Splatting-based Volumetric Video Compression with Sparse 4D Anchors|
 | | |
 |quality models| |
 | | |
@@ -36,7 +39,7 @@ nav_order: 8
 |[MVAD [WACV2025]](https://github.com/ChenFeng-Bristol/MVAD)| A Multiple Visual Artifact Detector for Video Streaming|
 |[Q-Tacit [arXiv]](https://github.com/YuxuanJJ/Q-Tacit)| Image Quality Assessment via Latent Visual Reasoning|
 | | |
-|misc. | |
+|others | |
 | | |
 |[ST-MFNet [CVPR2022]](https://github.com/danier97/ST-MFNet)| Spatio-Temporal Multi-Flow Network for Video Frame Interpolation|
 |[Deformable VFI [ICIP2022]](https://github.com/danier97/EDC)| a new deformable convolution based VFI method|
