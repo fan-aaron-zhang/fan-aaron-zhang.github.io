@@ -16,29 +16,29 @@ nav_order: 8
 |---:| |
 |video coding algorithms| | 
 | | |
-|[ViSTRA [TCSVT2018/SPIC2021]](https://github.com/fan-aaron-zhang/vistra)| video compression based on spatial resolution and effective bit depth adaptation|
+|[ViSTRA [TCSVT2018]](https://github.com/fan-aaron-zhang/vistra)| video compression based on spatial resolution and effective bit depth adaptation|
 |[CNN-PP [MM2020]](https://github.com/fan-aaron-zhang/vistra)| video compression with CNN-based post processing|
 |[MFRNet [JSTSP2020]](https://github.com/fan-aaron-zhang/mfrnet)| a new CNN architecture for post-processing and in-loop filtering|
 |[CVE-GAN [SPIC2024]](https://github.com/fan-aaron-zhang/cvegan)| a perceptually-inspired GAN for compressed video enhancement|
 |[HiNeRV [NeurIPS2023]](https://github.com/hmkx/HiNeRV)| video compression with hierarchical encoding-based neural representation|
-|[MV-HiNeRV [PCS2024]](https://github.com/hmkx/HiNeRV)| Immersive Video Compression using Implicit Neural Representations|
-|[NVRC [NeurIPS2024]](https://github.com/hmkx/NVRC)| Neural Video Representation Compression|
+|[MV-HiNeRV [PCS2024]](https://github.com/hmkx/HiNeRV)| immersive video compression using implicit neural representations|
+|[NVRC [NeurIPS2024]](https://github.com/hmkx/NVRC)| neural video representation compression|
 |[PNVC [AAAI2025]](https://github.com/ge1-gao/PNVC)| a practical INR-based video compression model|
 |[GIViC [ICCV2025]](https://github.com/ge1-gao/GIViC)| generative implicit video compression|
-|[NVRC++ [ECCV2026]](https://hmkx.github.io/nvrc-pp/)| Enhanced Neural Video Representation Compression Across Extreme Complexity and Quality Scales|
-|[PerQ [NeurIPS2026]](https://github.com/jasminepp/PerQ)| Inverse Generative Modeling for Neural Image Compression via Quantization Error Compensation|
-|[SAGA [NeurIPS2026]](https://github.com/ge1gao/SAGA-NeurIPS26)| Gaussian Splatting-based Volumetric Video Compression with Sparse 4D Anchors|
-|[S-NVRC [WACV2027]](https://jasminepp.github.io/Scalable-NVRC/)| Scalable Neural Video Representation Compression|
+|[NVRC++ [ECCV2026]](https://hmkx.github.io/nvrc-pp/)| enhanced neural video representation compression|
+|[PerQ [NeurIPS2026]](https://github.com/jasminepp/PerQ)| inverse generative modeling for neural image compression|
+|[SAGA [NeurIPS2026]](https://github.com/ge1gao/SAGA-NeurIPS26)| Gaussian splatting-based volumetric video compression with Sparse 4D Anchors|
+|[S-NVRC [WACV2027]](https://jasminepp.github.io/Scalable-NVRC/)| scalable neural video representation compression|
 | | |
 |quality models| |
 | | |
 |[FRQM [ICIP2017]](https://vilab.blogs.bristol.ac.uk/files/2019/07/FRQM_code.zip)| a frame rate dependent video quality metric|
 |[PVM [TCSVT2015]](/assets/zips/PVM_code.zip)| a perception-based video metric|
-|[FloLPIPS [PCS2022]](https://github.com/danier97/flolpips)| A Bespoke Video Quality Metric for Frame Interpoation|
-|[RankDVQA [WACV2024]](https://github.com/ChenFeng-Bristol/RankDVQA_release)| Deep VQA based on a Novel Hybrid Training Methodology|
-|[RMT-BVQA [ECCVW2024]](https://github.com/jasminepp/RMTBVQA)| RMT-based Blind VQA for Enhanced Video Content|
-|[MVAD [WACV2025]](https://github.com/ChenFeng-Bristol/MVAD)| A Multiple Visual Artifact Detector for Video Streaming|
-|[Q-Tacit [arXiv]](https://github.com/YuxuanJJ/Q-Tacit)| Image Quality Assessment via Latent Visual Reasoning|
+|[FloLPIPS [PCS2022]](https://github.com/danier97/flolpips)| a bespoke video quality metric for frame interpoation|
+|[RankDVQA [WACV2024]](https://github.com/ChenFeng-Bristol/RankDVQA_release)| deep VQA based on a novel hybrid training methodology|
+|[RMT-BVQA [ECCVW2024]](https://github.com/jasminepp/RMTBVQA)| RMT-based blind VQA for enhanced video content|
+|[MVAD [WACV2025]](https://github.com/ChenFeng-Bristol/MVAD)| A multiple visual artifact detector for video streaming|
+|[Q-Tacit [arXiv]](https://github.com/YuxuanJJ/Q-Tacit)| image quality assessment via latent visual reasoning|
 | | |
 |others | |
 | | |
