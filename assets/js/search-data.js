@@ -160,6 +160,9 @@ ninja.data = [{
           section: "News",},{id: "news-two-papers-were-accepted-by-neurips-2026-saga-and-perq",
           title: 'Two papers were accepted by NeurIPS 2026: SAGA and PerQ.',
           description: "",
+          section: "News",},{id: "news-three-papers-were-accepted-by-wacv-2027-hive-vqa-s-nvrc-and-spatialmem",
+          title: 'Three papers were accepted by WACV 2027: HiVE-VQA, S-NVRC and SpatialMem.',
+          description: "",
           section: "News",},{
         id: 'social-dblp',
         title: 'DBLP',
